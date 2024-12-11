@@ -60,7 +60,7 @@ El modelo se diseñó utilizando la librería **Keras** en TensorFlow. La arquit
 ## Instrucciones para Reproducir
 1. Clonar el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/JoseFernando7/CNN-weather
    cd CNN-weather
    ```
 
